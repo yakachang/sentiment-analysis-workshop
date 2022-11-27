@@ -6,6 +6,10 @@ data/test-ori.csv
 # Model
 model/
 
+# Folders
+prep/
+train-test
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
