@@ -1,3 +1,11 @@
+# Data
+data/2017_English_final/
+data/dev.csv
+data/test-ori.csv
+
+# Model
+model/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
